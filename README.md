@@ -1,2 +1,0 @@
-# class-materials
-class-materials
