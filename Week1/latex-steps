@@ -1,0 +1,24 @@
+1. For simplicity, a starter code with a file named songs1.tex is provided in the Week1/src/latex folder. 
+
+2. A latex file may be developed using the Overleaf website link provided below:
+   https://www.overleaf.com/login
+
+3. Please note: The Overleaf website may prompt you to register and log in before providing the options to compile latex files and generate pdf files. This should be a straightforward process. If there are any questions, you are encouraged to reach out to the Professor.
+
+4. After logging in to Overleaf, create a new project with a name Songs.
+
+5. Copy over the code from the starter code (songs1.tex) to the new project created in the previous step. Remove all the existing LATEX content in the left pane and paste the LATEX content from (songs.tex). Modify the LATEX code to include the author name (add your name), and the date (submission date) in lines 15 and 16 respectively.
+
+6. Click on the Recompile button. At this point, you will see an updated algorithmic content on the right pane.
+
+7. Click on the Download PDF icon to download the PDF version. Name the PDF file as songs1.pdf.
+
+8. Make necessary modification(s) to the file named songs2.tex to include the steps to identify the least played song. Modify the LATEX code to include the author name (add your name), and the date (submission date) in lines 15 and 16 respectively.
+
+9. Note: The code may not compile without adding the necessary algorithmic logic. Please add the similar logic (with the variation) as in songs1.tex starting from line no 32. After adding the corresponding logic, recompile the modified songs2.tex and produce a PDF using Overleaf. Name the PDF file as songs2.pdf.
+
+10) Upload your songs2.tex code to the Week1 Class Activity Question 4, by pasting the code in the textbox provided. 
+
+11. Interested in reading more about algorithm writing in LATEX:
+http://tug.ctan.org/macros/latex/contrib/algorithm2e/doc/algorithm2e.pdf
+
