@@ -1,6 +1,6 @@
 ## CMPSC 202 Spring 2023: Quiz 01 Preparatory Sheet
 
-Date/Time: Tuesday, 02/02/2023 [during class time]
+Date/Time: Thursday, 02/02/2023 [during class time]
 
 Outline: This document is not a study guide, instead, it is a sheet that lists the topics covered in the Quiz and at a high level highlights what to expect in the Quiz?
 
