@@ -16,7 +16,7 @@ Lesson-2: Review algorithm design principles and formal definition(s) of asympto
 
 Review and understand to solve all the different asymptotic analysis examples that we have learned so far. Review and understand the defective coin problem (both brute force and divide and conquer algorithm). 
 
-Lesson-3: Review Stack ADT, base operations, supporting operations, and axioms. Review the efficient and in-efficient solutions to the Stock Span problem. 
+Lesson-3: Review Stack ADT, base operations, supporting operations, and axioms.  
 
 Note: Please read the textbook, based on the reading assignment given at the end of every lecture slide. 
 Typically, the questions are expected to be multiple choice. You can expect between 5 to 10 questions, ranging anywhere from 20 to 30 mins quiz time. You will receive your grade for the quiz immediately after finishing the quiz through google form. You are allowed to use a one-page (can be 2-sided) resource sheet during the Quiz to add helpful notes and allowed to use a calculator during the Quiz. 
