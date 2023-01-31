@@ -21,4 +21,4 @@ Lesson-3: Review Stack ADT, base operations, supporting operations, and axioms. 
 Note: Please read the textbook, based on the reading assignment given at the end of every lecture slide. 
 Typically, the questions are expected to be multiple choice. You can expect between 5 to 10 questions, ranging anywhere from 20 to 30 mins quiz time. You will receive your grade for the quiz immediately after finishing the quiz through google form. You are allowed to use a one-page (can be 2-sided) resource sheet during the Quiz to add helpful notes and allowed to use a calculator during the Quiz. 
 
-
+(Survey)[https://forms.gle/p2myjVmqNXxySb8P9]
