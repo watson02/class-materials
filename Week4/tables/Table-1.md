@@ -3,7 +3,7 @@
 ## Table
 
 ```markdown
-i	j		key 	 ls		
+i	j	key 	ls		
 
 -------------------------
 
