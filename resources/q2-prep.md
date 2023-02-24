@@ -24,4 +24,4 @@ Note: Please read the textbook, based on the reading assignment given at the end
 Unlike the previous quiz, Quiz-2 is expected to cover more content, more questions, and more time will be provided. 
 Typically, the questions are expected to be multiple choice. You can expect between 10 to 15 questions and you will have the full lab time to complete the Quiz. You will receive your grade for the quiz immediately after finishing the quiz through google form. You are allowed to use a one-page (can be 2-sided) resource sheet during the Quiz to add helpful notes and allowed to use a calculator during the Quiz. 
 
-(Test)[]
+(Test)[https://forms.gle/v5ZoZt9eaQcSy4vb8]
