@@ -27,6 +27,7 @@ It is very important to go over and practice all the exercise problems discussed
 It is very important to go over and practice all the exercise problems discussed in class. 
 
 7) Review the Tree basic terminologies, tree traversals, and the properties of trees,  and Tree based algorithms such as Heap Sort. This topic will be only covered in the Exam based on how much we get to cover this week by end of Thursday's class period. 
+Expect (10 to 15)% of questions from this new topic covered during this week classes!
 
 Note: Please read the textbook, based on the reading assignment given at the end of every lecture slide. Make sure you review the questions provided in the previous quizzes. You may expect questions in the exam to be similar to the quizzes. 
 
