@@ -34,4 +34,4 @@ Note: Please read the textbook, based on the reading assignment given at the end
 Unlike the previous quizzes, Midterm is expected to cover more content, more questions, and more time will be provided. 
 Typically, the questions are expected to be combination of multiple choice and narrative questions. You can expect between 10 to 20 questions and you will have the full lab time to complete the Exam. You will not receive your grade for the exam immediately after completing the google form. The results will be notified typically after a week. You are allowed to use a one-page (can be 2-sided) resource sheet during the Exam to add helpful notes and allowed to use a calculator during the Exam. 
 
-(Test)[]
+(Test)[https://forms.gle/E4obERuT8PNDX9ks9]
