@@ -10,8 +10,8 @@ Please note: This is only a tentative list and may be changed during the semeste
 4) Spring Break: March 7th, 9th (No classes), March 10th (No Lab)
 5) Virtual: March 14th, 16th (Classes) 
 6) No Lab Meeting:  March 17th (No Lab)
-7) Quiz-3: March 30th, 2023 (during class time)
-8) Quiz-4: April 20th, 2023 (during class time)
+7) Quiz-3: April 4th, 2023 (during class time)
+8) Quiz-4: April 25th, 2023 (during class time)
 9) Project Meetings: April 7th, 14th, 21st, 28th. 
 10) Last class: April 27th, 2023
 11) Finals: May 5th, 2023 (2:00 PM slot) Exam Code (E)
