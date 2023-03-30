@@ -18,6 +18,8 @@ Reading Assignment: Sedgewick chapter 2 (2.4), chapter 3 (3.1-3.3), chapter 4 (4
 
 4) Review 2-3 Tree. What is a 2-3 tree and why is it used? How is this different from BST. Does it address any limitation of BST?  Review 2-3 trees insert, search, and delete procedures and the respective asymptotic time complexity. Review class activities from Week 11 and Lab-7. Try out problems similar to the solution for problems covered in class activities. 
 
+## This section 5 below is not included in the Quiz-3. 
+
 5) Review Graph data structure. How is a graph different from Trees? What are some basic terminologies of Graphs? How to represent Graphs using Adjacency list and matrix? How to traverse Graph? using depth first and breadth first traversal techniques? This topic is covered based on the coverage on Thursday 03/30/2023 class time. 
 
 Note: Please read the textbook, based on the reading assignment given at the end of every lecture slide. 

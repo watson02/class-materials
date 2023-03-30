@@ -14,7 +14,7 @@ class BST:
         if self.value == value:
             return
         # Left sub tree ...
-        if value < self.value:
+        if value < self.value: # go left 
             if self.left is not None:
                 self.left.insert(value)
             else:
@@ -55,4 +55,18 @@ class BST:
         return values
 
     def search(self, value):
-        pass
+        if value == self.value:
+            return True
+        if value < self.value: # left sub tree 
+            if self.left == None:
+                return False
+            else:
+                return self.left.search(value)
+        if value > self.value: # right sub tree
+            if self.right == None:
+                return False
+            else:
+                return self.right.search(value)
+
+
+

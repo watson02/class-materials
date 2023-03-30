@@ -6,7 +6,7 @@ def main():
     	bst.insert(item)
     print("inorder:")
     print(bst.inorder([]))
-    #print("4 search:")
-    #print(bst.search(4))
+    print("100 search:")
+    print(bst.search(100))
 if __name__ == "__main__":
 	main()
