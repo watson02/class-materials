@@ -26,4 +26,4 @@ Note: Please read the textbook, based on the reading assignment given at the end
 
 Typically, the questions are expected to be multiple choice. You can expect between 10 and 15 questions and you will have the full class time to complete the Quiz. You will receive your grade for the quiz immediately after finishing the quiz through google form. You are allowed to use a one-page (can be 2-sided) resource sheet during the Quiz to add helpful notes and allowed to use a calculator during the Quiz. 
 
-(Test)[]
+(Test)[https://forms.gle/pg8iCRQhJKu2WdQj9]
