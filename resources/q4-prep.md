@@ -10,15 +10,14 @@ All topics covered till end of class time on Thursday, 04/20/2023 will be includ
 
 Reading Assignment: Sedgewick  Chapter 3 (3.3), Chapter 4 (4.1,4.2,4.4)
 
-1) Review Graph data structure. How is a graph different from Trees? What are some basic terminologies of Graphs? How to represent Graphs using Adjacency list and matrix? 
+1) Review Graph data structure. How is a graph different from Trees? What are some basic terminologies of Graphs? How to represent Graphs using an Adjacency list and matrix? 
 
-2) Review Graph Traversals, How to traverse a graph? how does the DFS table created, what is the time complexity of the DFS algorithm? 
-how does the BFS table created, what is the time complexity of the BFS algorithm? What are the differences between DFS and BFS algorithms. 
+2) Review Graph Traversals, How to traverse a graph? how do we create the DFS table?, how does the DFS algorithm work? What supporting data structure is used to generate the DFS table? what is the time complexity of the DFS algorithm? 
+how do we create the BFS table?, how does the BFS algorithm work? What supporting data structure is used to generate the DFS table? what is the time complexity of the BFS algorithm? What are the differences between DFS and BFS algorithms? 
 
-3) Review Shortest Path Algorithms, what are the different shortest path algorithms? and how do they differ from one another? What is main purpose of the Dijkstras algorithm? how is the Dijkstras table generated? how does the algorithm work? what is the time complexity of the algortihm?
+3) Review Shortest Path Algorithms, what are the different shortest path algorithms? and how do they differ from one another? What is the main purpose of the Dijkstras algorithm? how is the Dijkstras table generated? how does the algorithm work? what is the time complexity of the algorithm?
 
-4) What are the limitations of 2-3 trees? Review the basic rules of Red Black Trees and the algorithmic steps. How does the rotate, insert, and delete happen in Red Black Trees? Review all the examples and try outs. 
-
+4) What are the limitations of 2-3 trees? Review the basic rules of Red-Black Trees and the algorithmic steps. How do the rotate, insert, and delete happen in Red Black Trees? Review all the examples and tryouts. 
 
 Note: Please read the textbook, based on the reading assignment given at the end of every lecture slide. 
 
