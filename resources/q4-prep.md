@@ -8,7 +8,7 @@ It is highly recommended that each student makes their own study guide to incorp
 
 All topics covered till end of class time on Thursday, 04/20/2023 will be included in the Quiz. The topics covered and reading assignment in the quiz are provided below:
 
-Reading Assignment: Sedgewick chapter 2 (2.4), chapter 3 (3.1-3.3), chapter 4 (4.1-4.2)
+Reading Assignment: Sedgewick  Chapter 3 (3.3), Chapter 4 (4.1,4.2,4.4)
 
 1) Review Graph data structure. How is a graph different from Trees? What are some basic terminologies of Graphs? How to represent Graphs using Adjacency list and matrix? 
 
